@@ -1,0 +1,10 @@
+{
+    "ENVIRONMENT": "DEV",
+    "PORT": 3001,
+    "UPDATED": "06/06/2020",
+    "DB" : {
+        "connectionString": "<your connection string for mongodb>"
+    },
+    "PRIVATE_KEY" : "Your Secret"
+}
+
